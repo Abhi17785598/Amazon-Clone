@@ -19,7 +19,7 @@ This is a **responsive clone of the Amazon homepage**, built using **HTML5** and
 
 ## 📸 Screenshot
 
-![Amazon Clone Screenshot](screenshot.png)
+![Amazon Clone Screenshot](https://github.com/Abhi17785598/Amazon-Clone/blob/main/Screenshot%20(95).png)
 
 
 
