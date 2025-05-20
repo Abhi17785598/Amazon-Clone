@@ -10,3 +10,16 @@ This is a **responsive clone of the Amazon homepage**, built using **HTML5** and
 
 ## 📂 Project Structure
 
+## 💡 Features
+
+- Amazon-style navigation bar
+- Product sections with images
+- Footer with links and info
+- Responsive design for various screen sizes
+
+## 📸 Screenshots
+
+*(Add screenshots here if you'd like)*
+
+
+
