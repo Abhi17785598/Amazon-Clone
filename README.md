@@ -1,7 +1,7 @@
 
 # 🛒 Amazon Clone
 
-This is a **responsive clone of the Amazon homepage**, built using **HTML5** and **CSS3**. It was created as a learning project to practice layout, design, and responsiveness.
+This is a **responsive clone of the Amazon homepage**, built using **HTML** and **CSS**. It was created as a learning project to practice layout, design, and responsiveness.
 
 ## 🔧 Technologies Used
 
