@@ -17,6 +17,13 @@ This is a **responsive clone of the Amazon homepage**, built using **HTML5** and
 - Footer with links and info
 - Responsive design for various screen sizes
 
+## 📸 Screenshot
+
+![Amazon Clone Screenshot](screenshot.png)
+
+
+
+
 
 
 
