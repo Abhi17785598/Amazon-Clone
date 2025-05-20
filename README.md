@@ -5,8 +5,8 @@ This is a **responsive clone of the Amazon homepage**, built using **HTML5** and
 
 ## 🔧 Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## 📂 Project Structure
 
@@ -17,7 +17,7 @@ This is a **responsive clone of the Amazon homepage**, built using **HTML5** and
 - Footer with links and info
 - Responsive design for various screen sizes
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 ![Amazon Clone Screenshot](https://github.com/Abhi17785598/Amazon-Clone/blob/main/Screenshot%20(95).png)
 ![Amazon Clone Screenshot](https://github.com/Abhi17785598/Amazon-Clone/blob/main/Screenshot%20(96).png)
