@@ -27,10 +27,6 @@ This is a **responsive clone of the Amazon homepage**, built using **HTML** and 
 
 
 
-## 🚀 How to Run the Project
-
-
-
 
 
 
