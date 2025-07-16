@@ -29,8 +29,7 @@ This is a **responsive clone of the Amazon homepage**, built using **HTML** and 
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
-https://github.com/Abhi17785598/amazon-clone.git
+
 
 
 
